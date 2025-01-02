@@ -1,0 +1,6 @@
+/Users/gz/learn/cmake-3.31.3-tutorial-source/Step2_build/CMakeFiles/Tutorial.dir
+/Users/gz/learn/cmake-3.31.3-tutorial-source/Step2_build/CMakeFiles/edit_cache.dir
+/Users/gz/learn/cmake-3.31.3-tutorial-source/Step2_build/CMakeFiles/rebuild_cache.dir
+/Users/gz/learn/cmake-3.31.3-tutorial-source/Step2_build/MathFunctions/CMakeFiles/MathFunctions.dir
+/Users/gz/learn/cmake-3.31.3-tutorial-source/Step2_build/MathFunctions/CMakeFiles/edit_cache.dir
+/Users/gz/learn/cmake-3.31.3-tutorial-source/Step2_build/MathFunctions/CMakeFiles/rebuild_cache.dir
